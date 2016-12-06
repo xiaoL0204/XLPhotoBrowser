@@ -10,6 +10,6 @@ Pod::Spec.new do |s|
     s.authors      = {'xiaoL0204' => 'xiaol0204@qq.com'}
     s.platform     = :ios, '6.0'
     s.source       = {:git => 'https://github.com/xiaoL0204/XLPhotoBrowser.git', :tag => s.version}
-    s.source_files = 'XLPhotoBrowser/**/*.{h,m}'
+    s.source_files = 'XLPhotoBrowser/**/*.{h,m}','Pods/**/*.{h,m}'
     s.requires_arc = true
 end
