@@ -1,5 +1,6 @@
 //
 //  UIView+Extension.m
+//  XLPhotoBrowser <https://github.com/xiaoL0204/XLPhotoBrowser>
 //  QmangoHotel
 //
 //  Created by Xiaol on 16/3/25.
