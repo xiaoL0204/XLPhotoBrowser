@@ -1,5 +1,6 @@
 //
 //  XLPhotoBrowserDelegate.h
+//  XLPhotoBrowser <https://github.com/xiaoL0204/XLPhotoBrowser>
 //  
 //
 //  Created by xiaoL on 16/11/30.
