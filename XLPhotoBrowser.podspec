@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name         = 'XLPhotoBrowser'
-    s.version      = '1.0.0'
+    s.version      = '1.0.2'
     s.summary      = 'a component of photo browser on iOS'
     s.homepage     = 'https://github.com/xiaoL0204/XLPhotoBrowser'
     s.description  = <<-DESC
